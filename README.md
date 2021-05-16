@@ -20,3 +20,14 @@ Thanks for a great semester and for being so accommodating with my computer trou
 
 [Link to Cesium Ion Presentation](https://cesium.com/ion/stories/viewer/?id=5deddd77-6ad9-427c-886d-ff1eb8c23163)
 
+
+## Courthouse Rock in the Red River Gorge
+
+![Courthouse Rock in the Red River Gorge](CourthouseRockLayout.jpg)
+
+
+## Animation of Courthouse Rock in the Red River Gorge
+
+![Courthouse Rock Youtube animation Screen Shot](Screenshot_Youtube_Animation_Courthouse_Rock.jpg)
+
+[Youtube link of Courthouse Rock Animation](https://youtu.be/G72U5XA_0WY)
